@@ -1,21 +1,21 @@
 
 commands for lisiting configuration details
-      git config --list 
+       >git config --list 
 
 commands for lisiting username
-      git config --global user.name "username"  
+       >git config --global user.name "username"  
 
 commands for lisiting email
-       git config --global user.email "user@gmail.com"   
+       >git config --global user.email "user@gmail.com"   
 
 commands for initializing git repository
-       git init 
+       >git init 
 
 commands for track all untracked files
-       git status
+       >git status
 
 commands for adding untracked files to staging area
-       git add -A 
+       >git add -A 
 
 commands for adding files to local repository
-       git commit -m "message" 
+       >git commit -m "message" 
