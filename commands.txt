@@ -19,3 +19,9 @@ commands for adding untracked files to staging area
 
 commands for adding files to local repository
        >git commit -m "message" 
+
+git remote add name remote path -> for adding remote repository in local repository
+
+git remote -v -> for checking wheather the remote is added
+
+git push -u remote name | master -
