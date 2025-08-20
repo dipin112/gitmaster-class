@@ -27,3 +27,5 @@ git remote -v -> for checking wheather the remote is added
 git push -u remote name | master -
 
  git branch is used to get name 
+
+ git lo is used to get the commit history
